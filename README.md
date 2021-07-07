@@ -1,4 +1,4 @@
-I created this portfolio with this tutorial.I tried to understand every step & write down step by step. Here I learned some vast knowldge about html, css & js. Like examples blob-image, swiperjs, dom, responsivness etc.And I am very much thankful to Bedimcode to create such a nice tutorial.
+I created this portfolio with this tutorial.I tried to understand every step & write down step by step. Here I learned some vast knowldge about html, css & js. Like examples blob-image, swiperjs, dom, responsivness, dark-theme etc. At this stage I learned how to use dark-theme. And I am very much thankful to Bedimcode to create such a nice tutorial.
 
 # Responsive Portfolio Website Alexa
 ## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
